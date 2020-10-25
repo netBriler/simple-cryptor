@@ -1,4 +1,4 @@
-# Клонирования:
+# Клонирование:
 
 `git clone https://github.com/netBriler/simple-cryptor`
 
